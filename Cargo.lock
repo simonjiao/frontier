@@ -1609,6 +1609,7 @@ dependencies = [
  "sp-runtime",
  "sp-storage",
  "sp-transaction-pool",
+ "tokio",
 ]
 
 [[package]]
